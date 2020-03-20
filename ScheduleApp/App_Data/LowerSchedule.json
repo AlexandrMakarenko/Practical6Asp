@@ -1,0 +1,153 @@
+﻿{
+  "Days": [
+    {
+      "Type": "Первый день",
+      "Lessons": [
+        {
+          "Title": "Документирование и сертификация",
+          "StartTime": "09:40",
+          "EndTime": "11:10",
+          "Classroom": "322",
+          "Teacher": "Арутюнян М.М."
+        },
+        {
+          "Title": "Гавно-Swift",
+          "StartTime": "11:30",
+          "EndTime": "13:00",
+          "Classroom": "306",
+          "Teacher": "Демиденко А.В."
+        },
+        {
+          "Title": "Серверная разработка ПО",
+          "StartTime": "09:40",
+          "EndTime": "11:10",
+          "Classroom": "326",
+          "Teacher": "Лошкарев И.В."
+        }
+      ]
+    },
+    {
+      "Type": "Второй день",
+      "Lessons": [
+        {
+          "Title": "Гавно-Swift",
+          "StartTime": "09:40",
+          "EndTime": "11:10",
+          "Classroom": "306",
+          "Teacher": "Демиденко А.В."
+        },
+        {
+          "Title": "Гавно-Swift",
+          "StartTime": "11:30",
+          "EndTime": "13:00",
+          "Classroom": "306",
+          "Teacher": "Демиденко А.В."
+        },
+        {
+          "Title": "Облачные технологии",
+          "StartTime": "13:10",
+          "EndTime": "14:40",
+          "Classroom": "422",
+          "Teacher": "Шамшин В.М."
+        }
+      ]
+    },
+    {
+      "Type": "Третий день",
+      "Lessons": [
+        {
+          "Title": "Документирование и сертификация",
+          "StartTime": "09:40",
+          "EndTime": "11:10",
+          "Classroom": "322",
+          "Teacher": "Арутюнян М.М."
+        },
+        {
+          "Title": "Гавно-Swift",
+          "StartTime": "11:30",
+          "EndTime": "13:00",
+          "Classroom": "306",
+          "Teacher": "Демиденко А.В."
+        },
+        {
+          "Title": "Гавно-Swift",
+          "StartTime": "13:10",
+          "EndTime": "14:40",
+          "Classroom": "306",
+          "Teacher": "Демиденко А.В."
+        }
+      ]
+    },
+    {
+      "Type": "Четвертый день",
+      "Lessons": [
+        {
+          "Title": "Физическая культура",
+          "StartTime": "09:40",
+          "EndTime": "11:10",
+          "Classroom": "с/з3",
+          "Teacher": "Гузов А.В."
+        },
+        {
+          "Title": "Документирование и сертификация",
+          "StartTime": "11:30",
+          "EndTime": "13:00",
+          "Classroom": "322",
+          "Teacher": "Арутюнян М.М."
+        },
+        {
+          "Title": "Определение экономической эффективности деятельности предприятия",
+          "StartTime": "13:10",
+          "EndTime": "14:40",
+          "Classroom": "406а",
+          "Teacher": "Езепчук А.В."
+        }
+      ]
+    },
+    {
+      "Type": "Пятый день",
+      "Lessons": [
+        {
+          "Title": "Гавно-Swift",
+          "StartTime": "11:30",
+          "EndTime": "13:00",
+          "Classroom": "306",
+          "Teacher": "Демиденко А.В."
+        },
+        {
+          "Title": "Облачные технологии",
+          "StartTime": "13:10",
+          "EndTime": "14:40",
+          "Classroom": "422",
+          "Teacher": "Шамшин В.М."
+        }
+      ]
+    },
+    {
+      "Type": "Нулевой день",
+      "Lessons": [
+        {
+          "Title": "Серверная разработка ПО",
+          "StartTime": "09:40",
+          "EndTime": "11:10",
+          "Classroom": "326",
+          "Teacher": "Лошкарев И.В."
+        },
+        {
+          "Title": "Серверная разработка ПО",
+          "StartTime": "11:30",
+          "EndTime": "13:00",
+          "Classroom": "326",
+          "Teacher": "Лошкарев И.В."
+        },
+        {
+          "Title": "Физическая культура",
+          "StartTime": "13:10",
+          "EndTime": "14:40",
+          "Classroom": "с/з3",
+          "Teacher": "Гузов А.В."
+        }
+      ]
+    }
+  ]
+}

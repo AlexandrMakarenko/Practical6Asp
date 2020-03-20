@@ -1,0 +1,31 @@
+﻿@{
+    var json = (ScheduleApp.Models.Schedule)ViewBag.Json;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>@ViewBag.Title</title>
+</head>
+<body style="background: #d3d3d3;">
+<div class="container" style="margin-top: 7%">
+    @foreach (var day in json.Days)
+    {
+        <div class="col-md-4">
+            <h2><b>@day.Type</b></h2>
+            @foreach (var lesson in day.Lessons)
+            {
+                <p>
+                    <b>@lesson.StartTime - @lesson.EndTime</b>
+                    <br />
+                    <b>@lesson.Title</b>
+                    <br />
+                    @lesson.Teacher, ауд. @lesson.Classroom
+                </p>
+            }
+        </div>
+    }
+</div>
+</body>
+</html>
